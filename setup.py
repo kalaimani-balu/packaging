@@ -4,7 +4,7 @@ setup(
     name='packaging',
     version='0.1.0',
     description='A example Python package',
-    url='https://github.com/shuds13/pyexample',
+    url='https://github.com/kalaimani-balu/packaging',
     author='Kalaimani Balu',
     author_email='kalaimani.balu@gmail.com',
     license='Apache License 2.0',
